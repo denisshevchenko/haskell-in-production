@@ -1,4 +1,4 @@
-# Haskell in production
+# Haskell in production? Yes!
 
 List of the companies who uses Haskell in production. Based on https://github.com/commercialhaskell/commercialhaskell#companies.
 
