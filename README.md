@@ -19,7 +19,7 @@ List of the companies who uses Haskell in production. Based on https://github.co
 * [Keera Studios](http://keera.co.uk/)
 * [Kite & Lightning](http://kiteandlightning.la/)
 * [Least Fixed](https://leastfixed.com/)
-* LexisNexis Risk Solutions
+* [LexisNexis Risk Solutions](http://www.lexisnexis.com/risk/)
 * [Lumi Guide](https://lumiguide.eu/)
 * [Microsoft](https://www.microsoft.com/)
 * [MyFansDemand](https://myfansdemand.com/)
@@ -34,14 +34,13 @@ List of the companies who uses Haskell in production. Based on https://github.co
 * [Standard Chartered](https://www.sc.com/en/)
 * [Suite Solutions](http://suite-sol.com/)
 * [SumAll](https://sumall.com/)
-* Swift Navigation
-* Systor Vest
-* thoughtbot
-* Tree.is
+* [Swift Navigation](https://www.swiftnav.com/)
+* [Systor Vest](http://www.systorvest.no/)
+* [thoughtbot](https://thoughtbot.com/)
 * [Tsuru Capital](http://www.tsurucapital.com/en/)
 * UpHere
 * [VaryWell](http://varywell.com/)
-* VFILES
+* [VFILES](https://www.vfiles.com/)
 * [Virtual Forge](https://www.virtualforge.com/en/home.html)
 * [Wagon](https://www.wagonhq.com/)
 * [Wellposed](http://www.wellposed.com/)
