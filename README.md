@@ -38,7 +38,6 @@ List of the companies who uses Haskell in production. Based on https://github.co
 * [Systor Vest](http://www.systorvest.no/)
 * [thoughtbot](https://thoughtbot.com/)
 * [Tsuru Capital](http://www.tsurucapital.com/en/)
-* UpHere
 * [VaryWell](http://varywell.com/)
 * [VFILES](https://www.vfiles.com/)
 * [Virtual Forge](https://www.virtualforge.com/en/home.html)
