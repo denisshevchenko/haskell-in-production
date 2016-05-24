@@ -44,3 +44,4 @@ List of the companies who uses Haskell in production. Based on https://github.co
 * [Wagon](https://www.wagonhq.com/)
 * [Wellposed](http://www.wellposed.com/)
 * [Well-Typed](http://www.well-typed.com/)
+* [Tweag I/O](http://www.tweag.io/)
