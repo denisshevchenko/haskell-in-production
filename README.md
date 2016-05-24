@@ -1,25 +1,25 @@
 # Haskell in production
 
-List of the companies with Haskell in production. Based on https://github.com/commercialhaskell/commercialhaskell#companies.
+List of the companies who uses Haskell in production. Based on https://github.com/commercialhaskell/commercialhaskell#companies.
 
-* Anchor
-* Applikativ
+* [Anchor](http://www.anchor.com.au/)
+* [Applikativ](http://applikativ.no/)
 * Borders
 * Capital Match
 * Chordify
 * [CircuitHub](https://circuithub.com/)
-* Elsen
+* [Elsen](https://elsen.co/)
 * [Extensibl](https://extensibl.com/)
 * [Facebook](https://code.facebook.com/)
 * [FP Complete](https://www.fpcomplete.com/)
 * [FPInsight](http://www.fpinsight.com/)
-* Front Row Education
-* Helium Systems
+* [Front Row Education](https://www.frontrowed.com/)
+* [Helium Systems](https://helium.com/)
 * Hooky, Inc
 * Infinipool
 * Iris Connect
-* Keera Studios
-* Kite & Lightning
+* [Keera Studios](http://keera.co.uk/)
+* [Kite & Lightning](http://kiteandlightning.la/)
 * Least Fixed
 * LexisNexis Risk Solutions
 * Lumi Guide
