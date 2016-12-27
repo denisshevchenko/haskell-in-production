@@ -1,6 +1,6 @@
 # Haskell in production? Yes!
 
-List of the companies who uses Haskell in production. Based on https://github.com/commercialhaskell/commercialhaskell#companies.
+List of the companies who uses Haskell in production. Based on https://github.com/commercialhaskell/commercialhaskell#companies, with my own additions.
 
 * [Anchor](http://www.anchor.com.au/)
 * [Applikativ](http://applikativ.no/)
