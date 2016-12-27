@@ -15,6 +15,7 @@ List of the companies who uses Haskell in production. Based on https://github.co
 * [Front Row Education](https://www.frontrowed.com/)
 * [Helium Systems](https://helium.com/)
 * [Infinipool](http://www.infinipool.com/)
+* [IOHK](https://iohk.io/)
 * [Iris Connect](http://www.irisconnect.co.uk/)
 * [Keera Studios](http://keera.co.uk/)
 * [Kite & Lightning](http://kiteandlightning.la/)
