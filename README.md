@@ -28,6 +28,7 @@ List of the companies who uses Haskell in production. Based on https://github.co
 * [Prezi](https://prezi.com/)
 * [Rheo Systems](http://rheosystems.com/)
 * [Scoompa](http://www.scoompa.com/)
+* [Serokell](https://serokell.io/)
 * [Silk](https://www.silk.co/)
 * [Snowdrift.coop](https://snowdrift.coop/)
 * [Soostone](http://www.soostone.com/)
